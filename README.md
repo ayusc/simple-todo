@@ -1,7 +1,10 @@
 # simple-todo
 A simple To-Do application written in python
 
-To-Do List Application Instructions
+#### Usage
+`python3 todo_list.py`
+
+**To-Do List Application Instructions**
 
 1. Display To-Do List:
    - Enter '1' to display your current to-do list. It will show the tasks and their completion status.
