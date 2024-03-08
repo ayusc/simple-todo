@@ -2,9 +2,9 @@
 My modifications to the given code:
 	
 	1) Create a to-do file
-	1) Append the query to the to-do file directly (so it remembers the data)
-	2) Overall formatting and code improvement 
-	3) Bypass keyboardInterrupt
+	2) Append the query to the to-do file directly (so it remembers the data)
+	3) Overall formatting and code improvement 
+	4) Bypass keyboardInterrupt
 	
 ~ Ayus Chatterjee	
 """
