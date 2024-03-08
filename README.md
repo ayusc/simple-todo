@@ -1,6 +1,12 @@
 # simple-todo
 A simple To-Do application written in python
 
+**Improvements**
+1) Create a to-do file
+2) Append the query to the to-do file directly (so it remembers the data)
+3) Overall formatting and code improvement 
+4) Bypass keyboardInterrupt
+	
 #### Usage
 `python3 todo_list.py`
 
