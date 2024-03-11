@@ -74,8 +74,10 @@ while True:
         print("3. Mark a task as completed")
         print("4. Remove a task")
         print("5. Quit")
+        print("")
         choice = input("Enter your choice: ")
-
+        os.system("clear")
+	    
         if choice == '1':
             display_tasks()
         elif choice == '2':
